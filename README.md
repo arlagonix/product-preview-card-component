@@ -1,4 +1,4 @@
-# Product preview card component solution
+# Product Preview Card Component
 
 <p align="center">
   <img src="./images/solution/large.jpg" width="100%">
