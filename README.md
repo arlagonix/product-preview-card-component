@@ -1,4 +1,7 @@
-# Product Preview Card Component
+<h1 align="center">Product Preview Card</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 <p align="center">
   <img src="./images/solution/large.jpg" width="100%">
